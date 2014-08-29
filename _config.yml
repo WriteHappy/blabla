@@ -11,11 +11,11 @@ desc: zhenyu's personal tech blog
 
 custom:
     category:
-        default: Default
+        operation: operation
         thinking: thinking
     categories:
-      - name:  default
-        title: Default
+      - name:  operation
+        title: operation
 
       - name:  thinking
         title: thinking
