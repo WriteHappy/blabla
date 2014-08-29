@@ -11,14 +11,19 @@ desc: zhenyu's personal tech blog
 
 custom:
     category:
-        operation: operation
+        default: Default
         thinking: thinking
+	    operation: operation
+		
     categories:
-      - name:  operation
-        title: operation
+      - name:  default
+        title: Default
 
       - name:  thinking
         title: thinking
+		
+      - name:  operation
+	    title: operation
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
