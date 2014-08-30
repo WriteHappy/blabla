@@ -11,23 +11,23 @@ desc: zhenyu's personal tech blog
 
 custom:
     category:
-        default: Default
-		another: Another Category
-        thinking: thinking
-	    operation: operation
+        default: 感悟
+        thinking: 思考
+	    experience: 问题和经验
+		operation: 运维相关
 		
     categories:
       - name:  default
-        title: Default
-		
-	  - name:  another
-	    title: Another Category
+        title: 感悟
 
       - name:  thinking
-        title: thinking
+        title: 思考
 		
-      - name:  operation
-	    title: operation
+      - name:  experience
+	    title: 问题和经验
+		
+	  - name: operation
+	    title: 运维相关
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
