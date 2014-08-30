@@ -12,12 +12,16 @@ desc: zhenyu's personal tech blog
 custom:
     category:
         default: Default
+		another: Another Category
         thinking: thinking
 	    operation: operation
 		
     categories:
       - name:  default
         title: Default
+		
+	  - name:  another
+	    title: Another Category
 
       - name:  thinking
         title: thinking
