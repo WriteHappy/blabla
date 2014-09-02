@@ -1,4 +1,4 @@
-﻿markdown: kramdown
+markdown: kramdown
 pygments: true
 safe: false
 permalink: /posts/:title.html
@@ -11,30 +11,30 @@ desc: zhenyu's personal tech blog
 
 custom:
     category:
-		default: 感悟
-		thinking: 思考
-		experience: 问题和经验
-		operation: 运维相关
+        default: 感悟
+        thinking: 思考
+        experience: 问题和经验
+        operation: 运维相关
     categories:
       - name:  default
         title: 感悟
 
       - name:  thinking
-		title: 思考
+        title: 思考
 		
       - name:  experience
-		title: 问题和经验
+        title: 问题和经验
 		
       - name: operation
         title: 运维相关
 
-    scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
+    scrollingLoadCount: 2                           # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
         name: WriteHappy
         email: chenzhenyu1219@hotmail.com
-        disqus: WriteHappy		            # Disqus缩略标识
+        disqus: WriteHappy                          # Disqus缩略标识
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
         github: your-github-account                 # GitHub账号
         gravatar: 1ea2a4968c60b74761031e4ba2e48932  # Gravatar头像标识
