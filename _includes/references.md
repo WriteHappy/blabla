@@ -13,3 +13,4 @@
 [jslib-builder]: http://github.com/elfjs/jslib-builder/
 [Markdown]: http://daringfireball.net/projects/markdown/
 [WordPress]: http://wordpress.org/
+[七牛]: http://www.qiniu.com/
