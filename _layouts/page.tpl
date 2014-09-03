@@ -25,7 +25,7 @@
 </div>
 
 <aside>
-	<h2><a href="/">{{ site.name }}</a><a href="/feed.xml" class="feed-link" title="Subscribe"><i class="fa fa-rss-square"></i></a></h2>
+	<h2><a href="/"><i class="fa fa-home"></i></a>|<a href="/">{{ site.name }}</a><a href="/feed.xml" class="feed-link" title="Subscribe"><i class="fa fa-rss-square"></i></a></h2>
 	
 	<nav class="block">
 		<ul>
@@ -45,7 +45,7 @@
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>Write something about yourself.</p>
+		<p>不想成为Full Stack developer的架构师不是好程序员</p>
 	</div>
 	
 	<div class="block block-license">
