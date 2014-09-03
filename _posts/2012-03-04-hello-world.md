@@ -13,7 +13,7 @@ category: default
 * 不用租一个虚拟空间和数据库服务，而就在[GitHub]上托管整个网站
 * 自定义域名指向,并且还是免费的。
 * 使用[Disqus]的云评论服务
-* 一如既往的使用[Google Picasa][七牛]作为我的图片外链服务
+* 一如既往的使用[Google Picasa]或者[七牛]作为我的图片外链服务
 * 用[Google Custom Search]自定义站内搜索
 * [jekyll]自带的或者用[HighlightJS]做代码高亮
 * [Gravatar]统一头像标识服务
