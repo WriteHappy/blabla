@@ -34,7 +34,7 @@
 		</ul>
 	</nav>
 	
-	<form action="/search/" class="block block-search">
+	<form action="/search/" class="block block-search" style="display:none;">
 		<h3>Search</h3>
 		<p><input type="search" name="q" placeholder="Search" /></p>
 	</form>
