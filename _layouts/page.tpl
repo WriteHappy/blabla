@@ -20,12 +20,12 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012</p>
+		<p>&copy; Since 2014 <a href="http://www.writehappy.tk/">www.writehappy.tk</a></p>
 	</footer>
 </div>
 
 <aside>
-	<h2><a href="/"><i class="fa fa-home"></i></a>|<a href="/">{{ site.name }}</a><a href="/feed.xml" class="feed-link" title="Subscribe"><i class="fa fa-rss-square"></i></a></h2>
+	<h2><a href="/"><i class="fa fa-home"></i></a> | <a href="/">{{ site.name }}</a><a href="/feed.xml" class="feed-link" title="Subscribe"><i class="fa fa-rss-square"></i></a></h2>
 	
 	<nav class="block">
 		<ul>
