@@ -4,6 +4,7 @@ title: Hello world!
 category: default
 ---
 ![](http://writehappy.qiniudn.com/img%2FHelloWorld.jpg)
+
 现在，我可以：
 
 * 使用纯文本的[Markdown]编辑文章
