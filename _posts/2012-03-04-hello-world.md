@@ -3,9 +3,7 @@ layout: post
 title: Hello world!
 category: default
 ---
-
-这是一篇测试文章，你可以在`_posts`目录修改或删除它。
-
+![](http://writehappy.qiniudn.com/img%2FHelloWorld.jpg)
 现在，我可以：
 
 * 使用纯文本的[Markdown]编辑文章
