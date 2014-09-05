@@ -27,6 +27,7 @@
 <aside>
 	<h2><a href="/"><i class="fa fa-home"></i></a> | <a href="/">{{ site.name }}</a><a href="/feed.xml" class="feed-link" title="Subscribe"><i class="fa fa-rss-square"></i></a></h2>
 	
+	<!-- 分类 -->
 	<nav class="block">
 		<ul>
 		{% for category in site.custom.categories %}<li class="{{ category.name }}"><a href="/category/{{ category.name }}/">{{ category.title }}</a></li>
@@ -34,11 +35,19 @@
 		</ul>
 	</nav>
 	
+	<!-- 站内搜索 -->
 	<form action="/search/" class="block block-search" style="display:none;">
 		<h3>Search</h3>
 		<p><input type="search" name="q" placeholder="Search" /></p>
 	</form>
 	
+	<!-- EarthMaps -->
+	<div id="earthMaps">
+	<script type="text/javascript" src="http://jk.revolvermaps.com/r.js"></script>
+	<script type="text/javascript">rm_f1st('0','220','true','false','000000','a80fchclbcx','true','ff0000');</script><noscript><applet codebase="http://rk.revolvermaps.com/j" code="core.RE" width="220" height="220" archive="g.jar"><param name="cabbase" value="g.cab" /><param name="r" value="true" /><param name="n" value="false" /><param name="i" value="a80fchclbcx" /><param name="m" value="0" /><param name="s" value="220" /><param name="c" value="ff0000" /><param name="v" value="true" /><param name="b" value="000000" /><param name="rfc" value="true" /></applet></noscript>
+	</div>
+	
+	<!-- About -->
 	<div class="block block-about">
 		<h3>About</h3>
 		<figure>
@@ -48,17 +57,20 @@
 		<p>不想成为Full Stack developer的架构师不是好程序员</p>
 	</div>
 	
+	<!-- Copyright -->
 	<div class="block block-license">
 		<h3>Copyright</h3>
 		<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/cn/" target="_blank" class="hide-target-icon" title="Copyright declaration of site content"><img alt="知识共享许可协议" src="http://i.creativecommons.org/l/by-nc-nd/2.5/cn/88x31.png" /></a></p>
 	</div>
 	
+	<!-- github 侧边斜logo -->
 	{% if site.meta.author.github %}
 	<div class="block block-fork">
 		<a href="https://github.com/{{ site.meta.author.github }}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub"></a>
 	</div>
 	{% endif %}
 	
+	<!-- Powered by -->
 	<div class="block block-thank">
 		<h3>Powered by</h3>
 		<p>
