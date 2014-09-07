@@ -7,7 +7,7 @@ exclude:
 
 name: WriteHappy
 host: www.writehappy.tk
-desc: zhenyu's personal tech blog
+desc: zhenyu's personal blog
 
 custom:
     category:
