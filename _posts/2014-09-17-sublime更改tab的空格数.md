@@ -7,6 +7,8 @@ category: experience
 
 sublime里面打开Preferences>>Settings-Default
 
-你会看到它帮你打开了一个叫Preferences.sublime-settings的文本（位置在C:\Users\<code><user></code>\AppData\Roaming\Sublime Text 2\Packages\Default下面）
+你会看到它帮你打开了一个叫Preferences.sublime-settings的文本,位置在
+	
+	C:\Users\<user>\AppData\Roaming\Sublime Text 2\Packages\Default\
 
 然后，把tab_size改成你想要的spaces数量。
