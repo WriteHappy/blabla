@@ -13,6 +13,7 @@ sublime里面打开Preferences>>Settings-Default
 	C:\Users\<user>\AppData\Roaming\Sublime Text 2\Packages\Default\
 
 然后，把tab_size改成你想要的spaces数量。
+
 ##Sublime Text增加Build system类型，打造一个全能IDE##
 Sublime text2是一款非常方便的文本编辑器，现在我基本上不用IDE去编写代码，一般都是在Sublime text2中编辑，当然，这里无法执行、debug是软肋，于是上网找了下资料，可以把添加Sublime text的build类型
 
