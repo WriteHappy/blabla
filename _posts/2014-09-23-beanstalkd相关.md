@@ -1,7 +1,7 @@
 ---
-layout:post
-title:beanstalkd相关
-category:experience
+layout: post
+title: beanstalkd相关
+category: experience
 ---
 #beanstalkd的核心要素#
 * job
