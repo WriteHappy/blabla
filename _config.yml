@@ -6,7 +6,7 @@ exclude:
   - README.md
 
 name: WriteHappy
-host: www.writehappy.tk
+host: www.writehappy.cn
 desc: zhenyu's personal blog
 
 custom:

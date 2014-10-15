@@ -20,7 +20,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2014 <a href="http://www.writehappy.tk/">www.writehappy.tk</a></p>
+		<p>&copy; Since 2014 <a href="http://www.writehappy.cn/">www.writehappy.cn</a></p>
 	</footer>
 </div>
 
